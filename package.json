@@ -1,0 +1,18 @@
+{
+  "name": "nodeanimesh",
+  "version": "1.0.0",
+  "description": "start with node",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon Node.js"
+  },
+  "author": "Animesh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.18.2",
+    "prompt-sync": "^4.2.0",
+    "validator": "^13.9.0"
+  }
+}
